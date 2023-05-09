@@ -17,3 +17,6 @@
   - `python sqlmap.py -u http://localhost/sqli-labs/Less-1/?id=2 --dump-all`
   - `--dump-all` is used to dumps all the data present inside every single database accessible through the injection.
   
+
+# Reference
+- `Mastering Modern Web Penetration Testing` Book by `Prakhar Prasad`
